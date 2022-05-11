@@ -4,7 +4,7 @@
   "description": "Skitsanos UI Lib",
   "author": "skitsanos",
   "license": "MIT",
-  "repository": "skitsanos/@skitsanos/uilib",
+  "repository": "skitsanos/example-building-react-lib",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
